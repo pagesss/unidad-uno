@@ -1,0 +1,271 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-color: white;
+}
+
+header{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0px;
+}
+
+.logo{
+    height: 100px;
+    width: auto;
+    cursor: pointer;
+}
+
+.lista{
+    display: inline-block;
+    padding: 0px 20px;
+    transition: 0.2s;
+}
+
+.lista:hover{
+    transform: scale(1.2);
+    transition: 0.2s;
+}
+
+.cadaboton{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    transition: 0.2s;
+}
+
+.TITULO1{
+    padding-top: 20px;
+    background-color: #a8e6cf;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Satisfy', cursive;;
+}
+
+.actividaduno{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px;
+}
+
+.primeractividad{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.escudo{
+    height: auto;
+    width: 300px;
+}
+
+.niñoinicio{
+    height: 300px;
+    width: auto;
+}
+
+.TITULO2{
+    background-color: #a8e6cf;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.principal2{
+    font-family: 'Satisfy', cursive;;
+    font-size: 50px;
+    text-align: center;
+}
+
+.pdf{
+    width: 200px;
+    height: auto;
+    transition: 0.2s;
+}
+
+.pdf:hover{
+    transform: scale(1.1);
+    transition: 0.2s;
+}
+
+.actividaddos{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+
+.segundaactividad{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.TITULO3{
+    background-color: #a8e6cf;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 30px ;
+}
+
+.principal3{
+    font-family: 'Satisfy', cursive;;
+    font-size: 50px;
+    text-align: center;
+}
+
+.multinacionales{
+    width: 300px;
+    height: auto;
+}
+
+.actividadtres{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+
+.terceraactividad{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.TITULO4{
+    background-color: #a8e6cf;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.principal4{
+    font-family: 'Satisfy', cursive;;
+    font-size: 50px;
+    text-align: center;
+}
+
+.deudaexterna{
+    width: 250px;
+    height: auto;
+}
+
+.actividad4{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+
+.cuartaactividad{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.TITULO5{
+    background-color: #a8e6cf;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.principal5{
+    font-family: 'Satisfy', cursive;;
+    font-size: 50px;
+    text-align: center;
+}
+
+.actividad5{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px 50px;
+}
+
+.quintaactividad{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.sobremi{
+    background-color: #e3e3e3;
+}
+
+.miinfo{
+    padding: 30px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.textosobremi{
+    font-size: 40px;
+}
+
+.conclucion{
+    background-color: #acc6aa;
+}
+
+.textoconclucion{
+    padding: 50px 50px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.final{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.finalfinal{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.futer{
+    width: 100px;
+    height: auto;
+}
+
+.pie{
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 5px groove black;
+}
+
+footer{
+    background-color: white;
+}
+
+
+
